@@ -1,0 +1,17 @@
+# Tareas
+- [x] Crear Consejos para dueños con tres categorías y contenido breve y responsable.
+- [x] Añadir acceso sin reorganizar la navegación existente.
+- [x] Verificar página y navegación en computador y celular.
+- [x] Implementar contactos privados con registro, edición, eliminación, favoritos y llamada rápida.
+- [x] Implementar gastos por mascota con filtros, totales y gráficos por categoría.
+- [x] Integrar acceso y cuenta sin cambiar las secciones existentes.
+- [x] Verificar validación, cálculos y páginas públicas en computador y celular.
+- [ ] Verificar guardado, edición, eliminación y vistas privadas: pendiente de una cuenta registrada e inicio de sesión.
+- [x] Integrar registro confirmado de cuidados y recompensas únicas y privadas.
+- [x] Crear niveles, insignias, rachas y panel general y por mascota.
+- [x] Verificar reglas, navegación y presentación en computador y celular.
+- [ ] Verificar registro y recompensas con sesión real: no hay cuentas registradas para iniciar sesión.
+- [x] In Memoriam: registro, perfil conmemorativo y enlace desde perfiles.
+- [x] Nuestros recuerdos: galería privada con álbumes, filtros y favoritos.
+- [x] Lugares visitados: mapa interactivo, reseñas personales y estadísticas.
+- [ ] Verificar las tres secciones con sesión real (guardado, subida de archivos y mapa): pendiente de una cuenta registrada e inicio de sesión.
